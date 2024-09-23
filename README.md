@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about HTML, CSS, JS, React JS, Next JS, Node JS, Express JS, Firebase, Mongo db, Tailwind, Daisy UI, Ant Design <br>⚡ Fact Coding
+💬 Ask me about HTML, CSS, JavaScript, React JS, Next JS, Node JS, Express JS, Firebase, Mongo DB, Tailwind, Daisy UI, Ant Design <br>⚡ Fact Coding
 
 
 ## 🌐 Socials:
